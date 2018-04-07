@@ -49,8 +49,10 @@ seguenti criteri:
    presente nel Marketplace Cloud di AgID;
 -  eventuali costi necessari all’integrazione della soluzione con i
    sistemi già in uso presso l’amministrazione;
--  eventuali costi per la formazione del personale destinato alla
-   gestione e amministrazione della soluzione esaminata;
+-  eventuali costi per la formazione del personale, considerando sia
+   quelli necessari per l’addestramento dei soggetti destinati alla
+   gestione della soluzione sia quelli per il suo utilizzo da parte
+   degli utenti finali;
 -  calcolo del TCO e sua congruità rispetto alla disponibilità di
    bilancio determinata nella precedente Macro fase 1.
 
