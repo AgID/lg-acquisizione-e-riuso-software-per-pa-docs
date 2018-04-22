@@ -196,8 +196,9 @@ pubbliche amministrazioni.
 
 La presente fase si conclude con la:
 
--  determinazione della migliore “soluzione Open Source”, o eventuale
-   non presenza di una soluzione.
+-  determinazione della migliore “soluzione Open Source” e delle eventuali
+   necessità relative di personalizzazione, o eventuale non presenza di
+   una soluzione.
 
 Fase 2.6: Approvvigionamento della soluzione Open Source
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
