@@ -78,16 +78,13 @@ di una proprietaria (cosiddetta valutazione “make or buy”),
 l’amministrazione verifica vantaggi e svantaggi di entrambe le
 soluzioni, tenendo come riferimento il seguente elenco:
 
-**Vantaggio acquisto soluzione proprietaria**:
+**Possibili vantaggi acquisto soluzione proprietaria/ex-novo**:
 
 -  rapida messa in esercizio;
 -  garanzia totale e rischio applicativo a carico del fornitore;
 -  manutenzione del fornitore;
--  costi di acquisto o sottoscrizione più bassi rispetto ad uno sviluppo
-   completo;
-
-**Vantaggio sviluppo soluzione ex-novo**:
-
+-  stabilità economica del fornitore;
+-  costi di acquisto o sottoscrizione più bassi;
 -  esaustività dei propri fabbisogni e obiettivi;
 -  facilità di gestione (importazione ed esportazione) dei propri dati;
 -  TCO (Total Cost of Ownership) a medio/lungo termine;
@@ -96,21 +93,20 @@ soluzioni, tenendo come riferimento il seguente elenco:
 -  estensione e aggiornamento;
 -  *riuso da parte di altre amministrazioni.*
 
-**Svantaggi di una soluzione proprietaria:**
+**Possibili svantaggi di una soluzione proprietaria:**
 
--  licenze ricorsive (sottoscrizioni mensili, annuali) o aggiornamenti
+-  licenze periodiche (sottoscrizioni mensili, annuali) o aggiornamenti
    di versione a pagamento;
--  rigidità del flusso operativo o meglio non adattabile
-   all'organizzazione operativa della Pubblica Amministrazione
+-  flusso operativo rigido o non adattabile
+   all'organizzazione operativa della Pubblica Amministrazione;
 -  possibilità di lock-in, cioè costi eccessivi di cambio di soluzione
-   in futuro;
--  stabilità economica del fornitore.
+   in futuro.
 
-**Svantaggi di una soluzione sviluppata ex-novo:**
+**Possibili svantaggi di una soluzione sviluppata ex-novo:**
 
--  maggiori attività da eseguire;
--  maggiore necessità di coordinamento;
--  tempi di messa in produzione maggiori.
+-  maggiori attività da eseguire, se non comprese nella fornitura;
+-  maggiore necessità di coordinamento, se non rientrante nelle competenze del fornitore;
+-  tempi di messa in produzione maggiori, a seconda della complessità dello sviluppo e migrazione dell'esistente.
 
 Fase 3.4: Approvvigionamento soluzioni proprietarie o realizzazione ex novo
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
