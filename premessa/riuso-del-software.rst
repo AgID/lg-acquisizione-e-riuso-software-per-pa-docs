@@ -7,8 +7,7 @@ stato originariamente realizzato, al fine di soddisfare esigenze
 similari a quelle che portarono al suo primo sviluppo. Il prodotto
 originario viene “trasportato” nel nuovo contesto arricchendolo, se
 necessario, di ulteriori funzionalità e caratteristiche tecniche che
-possono rappresentare un “valore aggiunto” per il nuovo soggetto
-utilizzatore.
+possono rappresentare un “valore aggiunto” per i suoi utilizzatori.
 
 Un aspetto fondamentale del riuso nel contesto della Pubblica
 Amministrazione è che l’Amministrazione che “riusa” riceve il software
