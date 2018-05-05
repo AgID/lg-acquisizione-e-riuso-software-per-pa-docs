@@ -53,11 +53,14 @@ Le attività previste in questa fase sono:
 -  stima dei **tempi per la messa in esercizio** (di seguito
    T\ :sub:`tempi`) della soluzione che la Pubblica amministrazione può
    assorbire;
+-  eventuali **vincoli normativi** (ad esempio conformità con l'art. 4 
+   comma 2 della Legge 4/2004 nel caso di contratti per la realizzazione 
+   e la modifica di siti/applicazioni web);
 -  eventuali altri vincoli di interesse dell’amministrazione;
 
 La presente fase si conclude con la:
 
--  individuazione dei vincoli (economici e temporali) che condizionano
+-  individuazione dei vincoli (economici, normativi e temporali) che condizionano
    le scelte dell’amministrazione.
 
 Fase 1.3: Redazione del documento descrittivo delle esigenze
