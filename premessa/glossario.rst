@@ -69,8 +69,9 @@ SaaS
     Software as a Service. Indica una modalità di distribuzione del
     software che non viene installato sulle postazioni degli operatori,
     ma che avviene attraverso l’accesso remoto a un server, per esempio
-    collegandosi con un browser ad un indirizzo. Wikipedia, per esempio,
-    è un software distribuito in modalità Software as a Service.
+    collegandosi con un browser ad un indirizzo. Google Traduttore, per
+    esempio, è un software distribuito in modalità Software as a
+    Service.
 
 Software proprietario
     Software che ha restrizioni sul suo utilizzo, sulla sua modifica,
