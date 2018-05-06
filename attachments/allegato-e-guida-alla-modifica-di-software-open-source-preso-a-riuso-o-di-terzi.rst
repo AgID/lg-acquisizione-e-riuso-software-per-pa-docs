@@ -49,8 +49,10 @@ indispensabile, preferendo invece i seguenti interventi:
    senza modificare il *core* (ad esempio, nel caso di un Content
    Management System);
 
--  laddove sia possibile estendere le classi esistenti senza modificarne
-   il codice è necessario seguire questa strada.
+-  laddove sia possibile riutilizzare il codice esistente senza
+   modificarlo (ad esempio, mediante l’ereditarietà nel caso della
+   programmazione orientata agli oggetti) è necessario seguire questa
+   strada.
 
 Qualora non sia possibile realizzare tutte le funzionalità mediante i
 sopra descritti meccanismi di estensione, ma sia necessario modificare
