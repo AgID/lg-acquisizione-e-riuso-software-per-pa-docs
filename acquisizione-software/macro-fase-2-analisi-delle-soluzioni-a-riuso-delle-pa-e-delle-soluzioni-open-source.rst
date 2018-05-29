@@ -177,10 +177,18 @@ La ricerca effettuata dalla pubblica amministrazione DEVE verificare:
    da OSI (`lista
    completa <https://opensource.org/licenses/alphabetical>`__).
 
+La ricerca effettuata dalla pubblica amministrazione PUÒ verificare:
+
+- il rispetto delle [buone prassi di sviluppo software](https://bestpractices.coreinfrastructure.org/)
+  determinate dalla Linux Foundation Core Infrastructure Initiative;
+- altri criteri suggeriti dalla [Guideline on public procurement of Open Source Software](
+  https://joinup.ec.europa.eu/document/guideline-public-procurement-open-source-software)
+  OSOR/IDABC.
+
 La presente fase si conclude con la:
 
 -  individuazione delle “soluzioni Open Source” di interesse per la
-   pubblica amministrazione
+   pubblica amministrazione.
 
 Fase 2.5: Valutazione soluzioni Open Source
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
