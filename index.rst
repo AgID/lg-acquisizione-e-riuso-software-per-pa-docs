@@ -1,4 +1,4 @@
-Linee Guida su acquisizione e riuso di software per le pubbliche amministrazioni
+Linee guida su acquisizione e riuso di software per le pubbliche amministrazioni
 ================================================================================
 
 .. admonition:: Consultazione pubblica
