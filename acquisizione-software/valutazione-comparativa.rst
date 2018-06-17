@@ -61,6 +61,24 @@ F - Software combinazione delle precedenti soluzioni
     soluzione. È di fatto la tipologia più comune tra quelle
     effettivamente in uso nelle pubbliche amministrazioni.
 
+La Legge n. 4/2004 all’art. 4 comma 1. indica che
+
+|  "Nelle procedure svolte dai soggetti di cui all’articolo 3, 
+   comma 1, per l’acquisto di beni e per la fornitura di servizi 
+   informatici, i requisiti di accessibilità stabiliti con il decreto
+   di cui all’articolo 11 costituiscono motivo di preferenza a parità 
+   di ogni altra condizione nella valutazione dell’offerta tecnica, 
+   tenuto conto della destinazione del bene o del servizio. La mancata
+   considerazione dei requisiti di accessibilità o l’eventuale 
+   acquisizione di beni o fornitura di servizi non accessibili è 
+   adeguatamente motivata."
+
+Nel caso di contratti per la realizzazione e la modifica di siti Internet
+(siti Web, applicazioni Web, applicazioni basate su tecnologie Web) è
+necessario che nei vincoli contrattuali sia previsto il rispetto dei 
+requisiti tecnici in materia di accessibilità, pena nullità del contratto
+(conforme l'art. 4 comma 2, Legge 4/2004).
+
 Inoltre, il comma 1 dell’articolo 69 del CAD indica che
 
 |  “le pubbliche amministrazioni che siano titolari di soluzioni e
