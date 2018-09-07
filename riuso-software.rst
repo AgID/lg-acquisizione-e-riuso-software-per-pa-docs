@@ -1,5 +1,7 @@
-Linee Guida sul riuso del Software (art. 69)
-============================================
+.. _riuso:
+
+Linee Guida sul riuso del *software* (art. 69)
+==============================================
 
 .. toctree::
    :maxdepth: 3

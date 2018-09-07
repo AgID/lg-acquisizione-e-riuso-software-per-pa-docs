@@ -5,8 +5,8 @@
 settings_project_name = "Linee Guida su acquisizione e riuso di software per le pubbliche amministrazioni"
 settings_copyright_copyleft = "Agenzia per l'Italia Digitale"
 settings_editor_name = "Agenzia per l'Italia Digitale"
-settings_doc_version = 'Bozza in consultazione'
-settings_doc_release = 'Bozza in consultazione'
+settings_doc_version = 'Finale'
+settings_doc_release = 'Finale'
 settings_basename = 'lg-acquisizione-e-riuso-software-per-la-pa'
 settings_file_name = 'lg-acquisizione-e-riuso-software-per-la-pa'
 settings_discourse_url = 'https://forum.italia.it/'
@@ -33,7 +33,7 @@ rtd_project = os.environ.get('READTHEDOCS_PROJECT', '')
 # If extensions (or modules to document with autodoc) are in another directory,
 # add these directories to sys.path here. If the directory is relative to the
 # documentation root, use os.path.abspath to make it absolute, like shown here.
-#sys.path.insert(0, os.path.abspath('.'))
+sys.path.insert(0, os.path.abspath('./extensions'))
 
 # -- General configuration -----------------------------------------------------
 
@@ -50,7 +50,8 @@ extensions = [
     'sphinx.ext.coverage',
     'sphinx.ext.ifconfig',
     'docs-italia-theme',
-    'sphinxcontrib.discourse'
+    'sphinxcontrib.discourse',
+    'numsec',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -251,7 +252,14 @@ latex_show_pagerefs = False
 latex_show_urls = False
 
 # Documents to append as an appendix to all manuals.
-#latex_appendices = []
+latex_appendices = [
+    "attachments/allegato-b-guida-alla-pubblicazione-open-source-di-software-realizzato-per-la-pa",
+    "attachments/allegato-c-guida-alla-manutenzione-di-software-open-source",
+    "attachments/allegato-d-guida-alle-licenze-open-source",
+    "attachments/allegato-e-guida-alla-modifica-di-software-open-source-preso-a-riuso-o-di-terzi",
+    "attachments/allegato-e-guida-alla-modifica-di-software-open-source-preso-a-riuso-o-di-terzi",
+    "attachments/allegato-f-tabella-sinottica-degli-elementi-necessari-al-percorso-decisionale",
+]
 
 # If false, no module index is generated.
 #latex_domain_indices = True
