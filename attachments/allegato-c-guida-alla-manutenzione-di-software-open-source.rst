@@ -49,8 +49,7 @@ controllo di versione prescelto (MAY).
 
 Qualora invece l'Amministrazione non sia già titolare di un repository
 per il *software* oggetto della manutenzione, dovrà procedere a crearne
-uno seguendo le indicazioni della *Guida alla modifica di *software* open
-source di terzi*.
+uno seguendo le indicazioni della *Guida alla presa in riuso di software open source*.
 
 Obblighi relativi alla manutenzione di *software* per il quale l'Amministrazione disponga già di un repository
 --------------------------------------------------------------------------------------------------------------
