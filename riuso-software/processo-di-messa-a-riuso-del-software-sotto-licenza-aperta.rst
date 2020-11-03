@@ -49,7 +49,7 @@ seguenti funzionalità:
    relativa documentazione;
 -  Utilizzo di un sistema di controllo di versione con la funzionalità
    di gestione di rami paralleli di sviluppo (*branch)*;
--  Sistema di segnalazioni (*issue tracker*) aperto al pubblico in
+-  Sistema di ticketing (*issue tracker*) aperto al pubblico in
    lettura senza autenticazione e in scrittura dietro autenticazione;
 -  Implementazione di almeno un flusso di invio modifiche, revisione del
    codice (*code review*), e integrazione della modifica, completamente
